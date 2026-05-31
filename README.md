@@ -1,4 +1,5 @@
 # Tic Tac Toe
+#created by Saideep Sammidi
 
 A browser-based Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript — no dependencies.
 
